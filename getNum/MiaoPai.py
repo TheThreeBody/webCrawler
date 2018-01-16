@@ -21,7 +21,8 @@ class MiaoPai:
         videolist = []
 
         for each in lis:
-
+            name = each.find_elements_by_tag_name('p')[0].text
+            title = each.find_elements_by_tag_name('p')[2].text
             # match number and unit, convert into raw number
             numeric_const_pattern = '[-+]? (?: (?: \d* \. \d+ ) | (?: \d+ \.? ) )(?: [Ee] [+-]? \d+ ) ?'
             rx = re.compile(numeric_const_pattern, re.VERBOSE)
@@ -31,10 +32,13 @@ class MiaoPai:
             unit = num[pos_raw + len(raw)] if len(num) > pos_raw + len(raw) else ''
             raw = int(float(raw) * 10000) if unit == '万' else raw
             videolist.append(
-                {'num': num,
-                 'raw_num': raw,
-                 'source': each.find_element_by_tag_name('video').get_attribute('src')
-                 }
+                {
+                    'name': name,
+                    'title': title,
+                    'num': num,
+                    'raw_num': raw,
+                    'source': each.find_element_by_tag_name('video').get_attribute('src')
+                }
             )
         return videolist
 

@@ -22,6 +22,7 @@ def index():
     return 'Hello World'
 
 
+# get num from miaopai. pass the url of personal home page
 @app.route('/getNum/miaopai', methods=['GET'])
 def get_num_miaopai():
     import getNum.MiaoPai
@@ -31,17 +32,6 @@ def get_num_miaopai():
     else:
         crawler = getNum.MiaoPai.MiaoPai()
     return jsonify({'lists': crawler.getnum()})
-
-
-
-
-
-
-
-
-@app.route('/test')
-def get_test():
-    return 'Hello'
 
 
 if __name__ == "__main__":
