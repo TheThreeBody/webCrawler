@@ -43,14 +43,11 @@
       <file leaf-file-name="Routes.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Routes.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding>
-                <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-                <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-                <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-                <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-                <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+                <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+                <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
               </folding>
             </state>
           </provider>
@@ -96,14 +93,15 @@
         <option value="$PROJECT_DIR$/test.py" />
         <option value="$PROJECT_DIR$/routes.py" />
         <option value="$PROJECT_DIR$/getNum/miaopai.py" />
-        <option value="$PROJECT_DIR$/Routes.py" />
         <option value="$PROJECT_DIR$/getNum/test.py" />
         <option value="$PROJECT_DIR$/getNum/MiaoPai.py" />
+        <option value="$PROJECT_DIR$/Routes.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="592" />
+    <option name="x" value="1014" />
+    <option name="y" value="198" />
     <option name="width" value="2682" />
     <option name="height" value="2060" />
   </component>
@@ -289,7 +287,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="592" y="0" width="2682" height="2060" extended-state="0" />
+    <frame x="1014" y="198" width="2682" height="2060" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16905661" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -349,11 +347,8 @@
         <state relative-caret-position="680">
           <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
           <folding>
-            <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
           </folding>
         </state>
       </provider>
@@ -393,11 +388,8 @@
         <state relative-caret-position="1560">
           <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding>
-            <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
           </folding>
         </state>
       </provider>
@@ -408,11 +400,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
           </folding>
         </state>
       </provider>
@@ -422,11 +411,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
           </folding>
         </state>
       </provider>
@@ -516,14 +502,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Routes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state relative-caret-position="120">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding>
-            <marker date="1516105500718" expanded="true" signature="75:384" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="81:223" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="231:383" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="416:441" ph="..." />
-            <marker date="1516105500718" expanded="true" signature="572:815" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="94:119" ph="..." />
+            <marker date="1516107214856" expanded="true" signature="250:493" ph="..." />
           </folding>
         </state>
       </provider>
